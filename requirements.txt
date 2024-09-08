@@ -1,0 +1,9 @@
+langchain
+langchain-openai
+langchain_pinecone
+langchain[docarray]
+docarray
+pydantic==1.10.8
+python-dotenv
+ruff
+pypdf
